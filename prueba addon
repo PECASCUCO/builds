@@ -1,0 +1,12 @@
+ 'genre': 'prueba',
+        'icon': os.path.join(ICONS_DIR, 'ragnarok.webp'),
+        'fanart': os.path.join(FANART_DIR, 'ragnarok.webp'),
+        'movies': [
+           {
+                'title': 'YOU 2X01',
+                'url': 'https://f8g9h0.debrid.it/dl/2ykmovsf5d6/You%20%282018%29%20-%20Temporada%202%20%5BHDTV%20720p%5D%5BCap.201%5D%5BAC3%205.1%20Castellano%5D%5Bwww.pctnew.ORG%5D.mkv',
+                'poster': 'https://github.com/PECASCUCO/pecascuco.github.io/blob/main/imagenes/YOU.jpg?raw=true',
+                'plot': ' ',
+                'year': 2023,
+            },
+        ],
